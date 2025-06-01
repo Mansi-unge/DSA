@@ -1,3 +1,4 @@
+package Problems.PalindromeCheck;
 import java.util.Scanner;
 
 public class PalindromeCheck {
